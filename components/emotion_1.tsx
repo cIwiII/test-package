@@ -1,6 +1,15 @@
 import React from 'react';
+import {css} from '@emotion/css';
+
+const style = css`
+  color: black;
+`
+
 
 export default () => {
-  return <div>lallalalla</div>
+  return <div className={css`
+    color: red;
+    
+  `}>lallalalla</div>
 }
 

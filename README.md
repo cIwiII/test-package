@@ -1,4 +1,5 @@
 # test-package
+
 包功能使用验证
 
 # dumidemo
@@ -21,3 +22,5 @@ $ npm run build
 ## LICENSE
 
 MIT
+
+可换新版 "dumi": "^2.2.13",
