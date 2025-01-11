@@ -22,4 +22,5 @@ export default defineConfig({
   // create issues
   // test issues only push
   // issues #1
+  // ci count
 });
